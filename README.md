@@ -107,6 +107,11 @@ Generated file:
 ---
 
 ## 👨‍💻 Author
+
 **Ashish Raj**  
+
 Passionate about AI, ML, and creative applications of technology.
-GitHub Profile
+
+📌 GitHub Profile:- https://github.com/ashishraj-hub
+
+📌Linkedin Profile:- https://www.linkedin.com/in/ashish-raj-ashishraj/
