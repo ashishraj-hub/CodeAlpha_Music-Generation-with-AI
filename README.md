@@ -96,6 +96,12 @@ Generated file:
 
 ---
 
+## 🙌 Acknowledgements
+- CodeAlpha for project inspiration.
+- Python community for libraries and resources.
+
+---
+
 ## 🤝 Contributing
 
 - Contributions are welcome!
