@@ -26,12 +26,12 @@ This project demonstrates how **Artificial Intelligence** can be applied to gene
 ## 📂 Project Structure
 
 ```
-├── midi_songs/          # Dataset of MIDI files
-├── notes.pkl             # Preprocessed notes stored for training
-├── ai_music.mid         # Example generated music output
+├── midi_songs/              # Dataset of MIDI files
+├── notes.pkl                # Preprocessed notes stored for training
+├── ai_music.mid             # Example generated music output
 ├── Music Generation.ipynb   # Jupyter Notebook with full workflow
-├── LICENSE              # License file
-└── README.md             # Project documentation
+├── LICENSE                  # License file
+└── README.md                # Project documentation
 ```
 ---
 
