@@ -24,13 +24,15 @@ This project demonstrates how **Artificial Intelligence** can be applied to gene
 ---
 
 ## 📂 Project Structure
+
+```
 ├── midi_songs/          # Dataset of MIDI files
 ├── notes.pkl             # Preprocessed notes stored for training
 ├── ai_music.mid         # Example generated music output
 ├── Music Generation.ipynb   # Jupyter Notebook with full workflow
 ├── LICENSE              # License file
 └── README.md             # Project documentation
-
+```
 ---
 
 ## ⚙️ Installation
@@ -116,8 +118,26 @@ Generated file:
 
 **Ashish Raj**  
 
-Passionate about AI, ML, and creative applications of technology.
+- Passionate about AI, ML, and creative applications of technology.
 
-📌 GitHub Profile:- https://github.com/ashishraj-hub
+---
 
-📌Linkedin Profile:- https://www.linkedin.com/in/ashish-raj-ashishraj/
+## 🤝 Connect With Me
+
+If you found this project useful, interesting, or inspiring — let's connect!
+
+| Platform | Link |
+|----|----|
+| 💼 LinkedIn | [Ashish Raj](https://www.linkedin.com/in/ashish-raj-ashishraj/) |
+| 🐙 GitHub | [Ashish Raj](https://github.com/ashishraj-hub)  |
+
+---
+
+## ⭐ Support This Project
+
+If this README or project helped you:
+- **Star** ⭐ this repository
+- **Fork** 🍴 it and build your own version
+- **Share** it with someone who is learning Data Science or AI/ML
+
+---
